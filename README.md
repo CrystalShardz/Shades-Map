@@ -19,6 +19,8 @@ The map is divided into the following areas to improve readability
   * West Tower
   * East Tower
 
+* Castle Garden
+
 ## Line Formatting
 To make it easier to read the map, lines have been formatted as follows:
 * Sold - normal path (N,S,E,W,NE,NW,SE,SW,U,D,I,O)
