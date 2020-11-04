@@ -29,7 +29,7 @@ Where required, notes are added to the line such as within the castle, leading t
 Unless marked, the direction of the line is the compass direction you should walk in. Lines will include a note to indicate Up Down (dn) in or out where applicable.
 
 # Contributing
-To contribute to the map, please create a pull request to submit changes. Pull requests will be merged once they have been verified.
+To contribute to the map, please create a new issue with details of the area you intend to map so as to prevent cross-mapping. Then, create a pull request to submit changes. Pull requests will be merged once they have been verified.
 Room name capitalisation should match those in game as when casing the where t spell, rooms sometimes appear different. I.E the treacherous swamp can be written as:
 * treacherous swamp
 * treacherous swamp.
