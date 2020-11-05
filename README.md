@@ -13,17 +13,14 @@ The map is divided into the following areas to improve readability
   * Castle ground floor
   * Forrest around castle
   * Forrest outside Ruined city
-
 * Castle - First Floor
   * First floor of castle
   * West Tower
   * East Tower
-
 * Castle Garden
 
 * Ruined City
   * Underground Lake
-
 * Singing Pillars
   * Singing pillars
   * Obsidian cave
@@ -40,7 +37,7 @@ Where required, notes are added to the line such as within the castle, leading t
 Unless marked, the direction of the line is the compass direction you should walk in. Lines will include a note to indicate Up Down (dn) in or out where applicable.
 
 # Contributing
-To contribute to the map, please create a new issue with details of the area you intend to map so as to prevent cross-mapping. Then, create a pull request to submit changes. Pull requests will be merged once they have been verified.
+To contribute to the map, please create a new issue with details of the area (remembering to add the tag Exploration) you intend to map so as to prevent cross-mapping. Then, create a pull request to submit changes. Pull requests will be merged once they have been verified.
 Room name capitalisation should match those in game as when casing the where t spell, rooms sometimes appear different. I.E the treacherous swamp can be written as:
 * treacherous swamp
 * treacherous swamp.
@@ -48,3 +45,6 @@ Room name capitalisation should match those in game as when casing the where t s
 * Treacherous Swamp.
 
 All files should be saved in the json format for consistency. When adding a new area, the readme file should be updated to show this new area, listing what it covers.
+
+When multiple exits exist for the same room (I.E you can go both NORTH and UP to reach the next room) only one exit should be documented to keep the map legible. You are free to choose which however please pick the exit that makes most sense. For example, it makes more sense to go UP a set of stairs rather than NORTH. Especially as the reverse of this would be DOWN rather than SOUTH.
+If diagonal exits (NE,NW,SE,SW) end up in the same room as a horizontal exit (N,S,E,W) then these can be omitted.
