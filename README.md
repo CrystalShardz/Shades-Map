@@ -39,6 +39,8 @@ To make it easier to read the map, lines have been formatted as follows:
 * Sold - normal path (N,S,E,W,NE,NW,SE,SW,U,D,I,O)
 * Dashed - Leads to separate map file
 * Dashed with label - Riddle or key required
+* Triangles on the line - Indicates a one way exit, in the direction the triangle is pointing
+* Dashed border around a room - Indicates the exit to the next map file. The map file (and direction) will be noted in the box, under the room name
 
 Where required, notes are added to the line such as within the castle, leading to the dusty corridor there is a weight limit to enter.
 Unless marked, the direction of the line is the compass direction you should walk in. Lines will include a note to indicate Up Down (dn) in or out where applicable.
