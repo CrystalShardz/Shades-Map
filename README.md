@@ -4,6 +4,7 @@ This is a map for the text based multi user dungeon (MUD) game, Shades. Shades c
 games.world.co.uk on port 23 For more information about the game, please visit the [Shades Website Here](http://games.world.co.uk/shades)
 
 The map was generated using the website [trizbort.io](http://trizbort.io) and was exported into separate files for each area in JSON format.
+In order to use the map files, you will need to visit the site and once in the app click the three bars in the top left corner. With the menu expanded, you can then choose "Load Map" to then select one of the downloaded files from this repository.
 
 ## Area Separation
 The map is divided into the following areas to improve readability
