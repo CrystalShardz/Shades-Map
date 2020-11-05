@@ -24,6 +24,12 @@ The map is divided into the following areas to improve readability
 * Ruined City
   * Underground Lake
 
+* Singing Pillars
+  * Singing pillars
+  * Obsidian cave
+  * Rune room
+  * Guards room
+
 ## Line Formatting
 To make it easier to read the map, lines have been formatted as follows:
 * Sold - normal path (N,S,E,W,NE,NW,SE,SW,U,D,I,O)
